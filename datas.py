@@ -24,7 +24,7 @@ data_hora = datetime.now()
 dhFormatada = data_hora.strftime("%d/%m/%Y %H:%M:%S")
 # print(dhFormatada)
 
-# Continuar a partir daqui
+# CONTINUAR A PARTIR DAQUI
 
 outroFormato = data_atual.strftime("Hoje é %A, dia %d de %B de %Y")
 # print(outroFormato)
